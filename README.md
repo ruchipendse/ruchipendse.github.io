@@ -5,7 +5,7 @@ For my Master's thesis, I have been working the circuit-level simulations of dou
 
 # Research Interests
 
-My (current) research inclination is to develop protocols that bring us closer to fault tolerance.  This may look like tailoring codes to be robust against specific noise or architecting the system in such a way as to use existing qubits or reduce qubit requirements in the system/circuit, or creating a software stack to better use classical processing to aid quantum computation (e.g. such as in error mitigation techniques).
+My (current) research inclination is to develop protocols that bring us closer to fault tolerance.  This may look like tailoring codes to be robust against specific noise or architecting the system in such a way as to use existing qubits or developing techniques to reduce qubit requirements in the system/circuit, or creating a software stack to better use classical processing to aid quantum computation (e.g. such as in error mitigation techniques).
  
 - Quantum Error Correction
 - Quantum Error Mitigation
