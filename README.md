@@ -14,13 +14,13 @@ My (current) research inclination is to develop protocols that bring us closer t
 # Writing
 These are a few articles I have written over the past two years. For my personal writing, please visit <a href="https://ruchipendse.blogspot.com/">my personal blog.</a>
 <br>
-<a href="ruchipendse.github.io/Cluster State Quantum Computation.pdf" target="_blank">Cluster State Quantum Computation.</a>
+<a href="https://drive.google.com/file/d/1gNKkivoqyBdCM9kp-qAxtYe6io8pw0rt/view?usp=share_link" target="_blank">Cluster State Quantum Computation.</a>
 <br>
-<a href="ruchipendse.github.io/Photonic Integrated Circuits.pdf" target="_blank">Photonic Integrated Circuits.</a>
+<a href="https://drive.google.com/drive/u/0/folders/1fPT2doDZbzv4f_A-dPLov-Qkftn-KikL" target="_blank">Photonic Integrated Circuits.</a>
 <br>
-<a href="ruchipendse.github.io/Qudit Codes.pdf" target="_blank">Qudit Codes</a>
+<a href="https://drive.google.com/drive/u/0/folders/1fPT2doDZbzv4f_A-dPLov-Qkftn-KikL" target="_blank">Qudit Codes</a>
 <br>
-<a href="ruchipendse.github.io/A Brief Introduction to Linear Optical Quantum Computing .pdf" target="_blank">A Brief Introduction to Linear Optical Quantum Computing</a>
+<a href="https://drive.google.com/file/d/1NT9C6_xG8Jcc5TnTxaQWvwTGqgh2WmZW/view?usp=share_link" target="_blank">A Brief Introduction to Linear Optical Quantum Computing</a>
 
 
 
