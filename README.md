@@ -20,9 +20,7 @@ These are a few articles I have written over the past two years. For my personal
 <br>
 <a href="ruchipendse.github.io/Qudit Codes.pdf" target="_blank">Qudit Codes</a>
 <br>
-<a href="ruchipendse.github.io/A Brief Introduction to Linear Optical Quantum Computing .pdf
-
-" target="_blank">A Brief Introduction to Linear Optical Quantum Computing</a>
+<a href="ruchipendse.github.io/A Brief Introduction to Linear Optical Quantum Computing .pdf" target="_blank">A Brief Introduction to Linear Optical Quantum Computing</a>
 
 
 
