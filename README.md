@@ -10,3 +10,5 @@ My (current) research inclination is to develop protocols that bring us closer t
 - Quantum Error Correction
 - Quantum Error Mitigation
 - Reducing overhead for magic state distillation
+
+# Writing
