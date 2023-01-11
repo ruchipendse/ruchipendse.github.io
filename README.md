@@ -22,6 +22,9 @@ These are a few articles I have written over the past two years. For my personal
 <br>
 <a href="https://drive.google.com/file/d/1NT9C6_xG8Jcc5TnTxaQWvwTGqgh2WmZW/view?usp=share_link" target="_blank">A Brief Introduction to Linear Optical Quantum Computing</a>
 
+Bachelor Thesis:
+<a href= "https://drive.google.com/file/d/1ckSlZ0qIUFn-dAvM12PmHoTc57CDcE_4/view?usp=sharing" target="_blank">Performance Comparison of Intel Python Libraries and the Stock Release</a>
+
 
 
 
