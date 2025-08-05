@@ -3,12 +3,12 @@ Hey there! I'm Ruchi. I am currently the engagement lead at IBM Quantum, working
 I earned my Master of Science from Duke University in 2023, focusing on quantum computing. For my thesis, I ran code-capacity simulations of double-pass MWPM decodng for correlated errors on an asymmetric surface code under the guidance of Prof. Kenneth R. Brown.
 I enjoy running, reading, and writing. 
 
-# Community and Outreach
+# Community Outreach
 I'm happily commited to building a deep tech ecosystem in Chicago. As part of that effort, I enjoy participating in community outreach to help bring more people into the fold of STEM, quantum computing, and technology.
 <br>
 - I was happy to be <a href="https://polsky.uchicago.edu/programs-events/deep-tech-ventures-corporate-collision/speakers/"> invited to UChicago's Polsky Center</a> to speak about quantum computing, IBM Quantum's commitments in the Illinois quantum ecosystem, the IBM Quantum System Two coming to Chicago, and IBM Quantum's startup network.
 <br>
-- I will be speaking at SMTA International on what quantum computing can bring to industries in October 2025.
+* I will be speaking at SMTA International on what quantum computing can bring to industries in October 2025.
 
 
 # (Research) Interests
