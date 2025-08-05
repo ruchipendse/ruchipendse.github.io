@@ -3,7 +3,8 @@ Hey there! I'm Ruchi. I am currently the Illlinois Partnerships Engagement Lead 
 
 Outside of my day job, my side gig at IBM is to work on updating the BP-OSD decoder for a type of correlated error at very low error rates.
 
-I earned my Master of Science from Duke University in 2023, focusing on quantum computing. For my thesis, I ran code-capacity simulations of double-pass MWPM decodng for correlated errors on an asymmetric surface code under the guidance of Prof. Kenneth R. Brown. As you can tell, I'm really into decoding correlated errors.
+I earned my Master of Science from Duke University in 2023, focusing on quantum error correction. For my thesis, I ran code-capacity simulations of double-pass MWPM decodng for correlated errors on an asymmetric surface code under the guidance of Prof. Kenneth R. Brown. As you can tell, I'm really into decoding correlated errors.
+
 I enjoy running, reading, and writing. 
 
 # Community Outreach
