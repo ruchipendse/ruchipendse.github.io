@@ -1,7 +1,14 @@
 # About
-Hey there! I'm Ruchi. I am currently the engagement lead at IBM Quantum, working closely with the Illinois Quantum and Microelectronics Park, the National Quantum Algorithm Center, and managing IBM Quantum's long-term collaborations with the University of Chicago, and the University of Illinois at Urbana-Champaign.
+Hey there! I'm Ruchi. I am currently the engagement lead at IBM Quantum, working closely with the Illinois Quantum and Microelectronics Park, the National Quantum Algorithm Center, and managing IBM Quantum's long-term collaborations with the University of Chicago, and the University of Illinois at Urbana-Champaign. Outside of my day job, my side gig at IBM is to work on updating the BP-OSD decoder for a type of correlated error at very low error rates.
 I earned my Master of Science from Duke University in 2023, focusing on quantum computing. For my thesis, I ran code-capacity simulations of double-pass MWPM decodng for correlated errors on an asymmetric surface code under the guidance of Prof. Kenneth R. Brown.
 I enjoy running, reading, and writing. 
+
+# Community and Outreach
+I'm happily commited to building a deep tech ecosystem in Chicago. As part of that effort, I enjoy participating in community outreach to help bring more people into the fold of STEM, quantum computing, and technology.
+
+I was happy to be invited to speak at the Polsky Center<a href="https://polsky.uchicago.edu/programs-events/deep-tech-ventures-corporate-collision/speakers/"> about quantum computing, IBM Quantum's commitments in the Illinois quantum ecosystem, the IBM Quantum System Two coming to Chicago, and IBM Quantum's startup network.
+I will be speaking at SMTA International on what quantum computing can bring to industries in October 2025.
+
 
 # (Research) Interests
 
