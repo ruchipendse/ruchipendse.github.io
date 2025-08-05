@@ -1,6 +1,9 @@
 # About me
-Hey there! I'm Ruchi. I am currently the Illlinois Partnerships Engagement Lead at IBM Quantum, working closely with the <a href="https://iqmp.org/"> Illinois Quantum and Microelectronics Park </a>, the National Quantum Algorithm Center, and managing IBM Quantum's long-term collaborations with the University of Chicago, and the University of Illinois at Urbana-Champaign. Outside of my day job, my side gig at IBM is to work on updating the BP-OSD decoder for a type of correlated error at very low error rates.
-I earned my Master of Science from Duke University in 2023, focusing on quantum computing. For my thesis, I ran code-capacity simulations of double-pass MWPM decodng for correlated errors on an asymmetric surface code under the guidance of Prof. Kenneth R. Brown.
+Hey there! I'm Ruchi. I am currently the Illlinois Partnerships Engagement Lead at IBM Quantum, working closely with the <a href="https://iqmp.org/"> Illinois Quantum and Microelectronics Park </a>, the National Quantum Algorithm Center, and managing IBM Quantum's long-term collaborations with the <a href="https://newsroom.ibm.com/2023-05-21-IBM-Launches-100-Million-Partnership-with-Global-Universities-to-Develop-Novel-Technologies-Towards-a-100,000-Qubit-Quantum-Centric-Supercomputer"> University of Chicago </a>, and the <a href="https://discoveryacceleratorinstitute.grainger.illinois.edu/about/personnel"> University of Illinois at Urbana-Champaign </a>. 
+
+Outside of my day job, my side gig at IBM is to work on updating the BP-OSD decoder for a type of correlated error at very low error rates.
+
+I earned my Master of Science from Duke University in 2023, focusing on quantum computing. For my thesis, I ran code-capacity simulations of double-pass MWPM decodng for correlated errors on an asymmetric surface code under the guidance of Prof. Kenneth R. Brown. As you can tell, I'm really into decoding correlated errors.
 I enjoy running, reading, and writing. 
 
 # Community Outreach
