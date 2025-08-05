@@ -7,7 +7,8 @@ I enjoy running, reading, and writing.
 I'm happily commited to building a deep tech ecosystem in Chicago. As part of that effort, I enjoy participating in community outreach to help bring more people into the fold of STEM, quantum computing, and technology.
 
 - I was happy to be <a href="https://polsky.uchicago.edu/programs-events/deep-tech-ventures-corporate-collision/speakers/"> invited to UChicago's Polsky Center</a> to speak about quantum computing, IBM Quantum's commitments in the Illinois quantum ecosystem, the IBM Quantum System Two coming to Chicago, and IBM Quantum's startup network.
-- I will be speaking at SMTA International on what quantum computing can bring to industries in October 2025.
+- My talk on transpilation at <a href="https://sigquantum.com/meetings/"> UIUC's SIG on Quantum Computing </a>
+- I have been invited to speak at < a href="https://www.smtai.org/technical-program"> SMTA International </a> on what quantum computing can bring to industries in October 2025.
 
 
 # (Research) Interests
